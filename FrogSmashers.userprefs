@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/WinsButton.cs">
+    <Files>
+      <File FileName="Assets/WinsButton.cs" Line="13" Column="3" />
+      <File FileName="Assets/Scripts/Assembly-CSharp/InControl/PlayerActionSet.cs" Line="241" Column="56" />
+      <File FileName="Assets/Scripts/Assembly-CSharp/GameController.cs" Line="708" Column="34" />
+      <File FileName="Assets/Scripts/Assembly-CSharp/Buttons/FreePlayToggleButton.cs" Line="22" Column="36" />
+      <File FileName="Assets/Scripts/Assembly-CSharp/Buttons/Button.cs" Line="30" Column="4" />
+      <File FileName="Assets/Scripts/Assembly-CSharp/Buttons/ButtonController.cs" Line="97" Column="9" />
+      <File FileName="Assets/Scripts/Assembly-CSharp/Buttons/ScoreButton.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\Holden\Documents\Unity\FrogSmashers\Assets\Scripts\Assembly-CSharp\EffectsController.cs" line="53" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

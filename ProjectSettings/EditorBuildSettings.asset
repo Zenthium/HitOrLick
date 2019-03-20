@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scene/Scenes/TitleScreen.unity
+    guid: 5bfac0fe768f8aa7491f7a602f49a4be
+  - enabled: 1
+    path: Assets/Scene/Scenes/Outro.unity
+    guid: 639f144d15f639bd4b3cd0b71e0c5921
+  - enabled: 1
+    path: Assets/Scene/Scenes/JoinScreen.unity
+    guid: 8d2b8ddbcc7431884f99e05ce50d0466
+  - enabled: 1
+    path: Assets/Scene/Scenes/2DownSmash.unity
+    guid: 79a0a94eb42275a848affc4022f3a3ae
+  - enabled: 1
+    path: Assets/Scene/Scenes/3Moon.unity
+    guid: a4722124e0b9f39b4e84b05b0f74fea7
+  - enabled: 1
+    path: Assets/Scene/Scenes/4FinalFrogstination.unity
+    guid: f65b4e7a4b8d379a4ea5f208be73e0cc
+  - enabled: 1
+    path: Assets/Scene/Scenes/1BusStop.unity
+    guid: e16b4f766a91edb5428d0b893fd8ef94
+  - enabled: 1
+    path: Assets/Scene/Scenes/Rejects/3Podium.unity
+    guid: 91b5082d8072b780468466e9cb59d863
+  - enabled: 1
+    path: Assets/Scene/Scenes/6Finale.unity
+    guid: 63337c95938bfcbb4287fdb5d08140da
+  - enabled: 1
+    path: Assets/Scene/Scenes/5Skyline.unity
+    guid: 20c5e21ceb783ca04b1332690c0931a7
+  - enabled: 1
+    path: Assets/Scene/Scenes/Rejects/TestGameplay.unity
+    guid: a0b423d6bb091f9544582cc23d395d55
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scene/Scenes/ScoreScreen.unity
+    guid: f0355f91cc31f7ae47b3ca9e828b0e12
+  - enabled: 1
+    path: Assets/Scene/Scenes/7Showdown.unity
+    guid: 6a5d19b63f4fc6a542275750c547cb27
+  - enabled: 1
+    path: Assets/Scene/Scenes/LevelSelectScreen.unity
+    guid: 6a0593f30f72d467696b2ecda28f5142

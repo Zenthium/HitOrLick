@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: 4ec72d84c4945ea047e41e7ea151a003
+timeCreated: 1551558625
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: fg_buildings
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 10
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fg_buildings
+      rect:
+        serializedVersion: 2
+        x: 63.01291
+        y: 0
+        width: 558.9109
+        height: 161.9239
+      alignment: 9
+      pivot: {x: 0.4955836, y: 1.235148}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -177.4684, y: 59.03806}
+        - {x: -178.4684, y: -80.96194}
+        - {x: -177.4684, y: -75.96194}
+        - {x: -279.4684, y: 59.03806}
+        - {x: -279.4684, y: -80.96194}
+        - {x: -96.46838, y: 78.03806}
+        - {x: -97.46838, y: 70.03806}
+        - {x: -95.46838, y: 75.03806}
+        - {x: -106.4684, y: 79.03806}
+        - {x: -87.46838, y: 81.03806}
+        - {x: -27.46838, y: -80.96194}
+        - {x: -27.46838, y: 81.03806}
+        - {x: -94.46838, y: 76.03806}
+        - {x: -121.4684, y: 65.03806}
+        - {x: -124.4684, y: 59.03806}
+        - {x: -124.4684, y: -80.96194}
+        - {x: -124.4684, y: 70.03806}
+        - {x: -124.4684, y: 66.03806}
+        - {x: 111.5316, y: 68.03806}
+        - {x: 119.5316, y: -80.96194}
+        - {x: 119.5316, y: 60.03806}
+        - {x: 29.53162, y: -80.96194}
+        - {x: 28.53162, y: 68.03806}
+        - {x: 27.53162, y: 57.03806}
+        - {x: 27.53162, y: -49.96194}
+        - {x: 220.5316, y: 53.03806}
+        - {x: 279.5316, y: -80.96194}
+        - {x: 279.5316, y: 31.03806}
+        - {x: 172.5316, y: 53.03806}
+        - {x: 168.5316, y: 39.03806}
+        - {x: 168.5316, y: -80.96194}
+        - {x: -170.4684, y: -36.96194}
+        - {x: -167.4684, y: -40.96194}
+        - {x: -167.4684, y: -37.96194}
+        - {x: -170.4684, y: -41.96194}
+        - {x: -172.4684, y: -38.96194}
+        - {x: 21.53162, y: 2.038063}
+        - {x: 24.53162, y: -1.961937}
+        - {x: 24.53162, y: 1.038063}
+        - {x: 21.53162, y: -2.961937}
+        - {x: 19.53162, y: 0.03806305}
+        - {x: -24.46838, y: 11.03806}
+        - {x: -21.46838, y: 7.038063}
+        - {x: -21.46838, y: 10.03806}
+        - {x: -24.46838, y: 6.038063}
+        - {x: -26.46838, y: 9.038063}
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
